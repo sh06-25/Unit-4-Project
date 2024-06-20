@@ -1,0 +1,105 @@
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+
+}
+
+/* Pages */
+
+
+.fPage {
+    display: block;
+    background-image: url('https://images.theconversation.com/files/393210/original/file-20210401-13-z6rl6z.jpg?ixlib=rb-4.1.0&rect=9%2C0%2C2994%2C1999&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip');
+    background-size: 100% 100%;
+    color: white;
+    background-repeat: no-repeat;
+}
+
+.sPage {
+    display: none;
+    background-image: url('https://i0.wp.com/www.morenascorner.com/wp-content/uploads/2013/03/Spilled-juice-prank.jpg?ssl=1');
+    background-size: cover;
+    background-size: 100000;
+    background-repeat: no-repeat;
+}
+
+.thPage {
+    display: none;
+    background-image: url('https://www.ocdtypes.com/graphics/repeating-bears.jpg');
+    background-size: cover;
+    background-size: 100000;
+}
+
+.foPage {
+    display: none;
+    background-image: url('https://tr.rbxcdn.com/72e6c7696a5619fef06df8e6f7578a51/768/432/Image/Webp');
+    background-size: cover;
+    color: white;
+    background-size: 100000;
+    background-repeat: no-repeat;
+}
+
+.fiPage {
+    display: none;
+}
+
+.siPage {
+    display: none;
+}
+
+.sePage {
+    display: none;
+}
+
+.ePage {
+    display:none;
+}
+
+.nPage {
+    display: none;
+}
+
+/* Answers */
+
+.first {
+    text-align: left;
+}
+
+.second {
+    text-align: right;
+}
+
+.third {
+    text-align: left;
+}
+
+.fourth {
+    text-align: right;
+}
+
+.btn {
+    margin: 40px;
+    padding: 0;
+    justify-content: center;
+    color: white;
+    border: none;
+    background: none;
+    border: 3px solid black;
+    cursor: pointer;
+}
+
+.fImages {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.AN {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
